@@ -1,0 +1,11 @@
+train: C:/Users/user/minor_project/merged_ppe_dataset/images/train
+val: C:/Users/user/minor_project/merged_ppe_dataset/images/val
+test: C:/Users/user/minor_project/merged_ppe_dataset/images/test
+
+nc: 5
+names:
+  0: Person
+  1: Helmet
+  2: NoHelmet
+  3: NoVest
+  4: Vest
