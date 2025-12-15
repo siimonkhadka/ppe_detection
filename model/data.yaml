@@ -1,6 +1,0 @@
-train: C:/Users/user/minor_project/merged_ppe_dataset/images/train
-val: C:/Users/user/minor_project/merged_ppe_dataset/images/val
-test: C:/Users/user/minor_project/merged_ppe_dataset/images/test
-
-nc: 5
-names: ['Person', 'Helmet', 'NoHelmet', 'NoVest', 'Vest']
